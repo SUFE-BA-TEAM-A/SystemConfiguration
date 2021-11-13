@@ -1,0 +1,6 @@
+#!/bin/bash
+wip=$(ip route | grep default | awk '{print $3}')
+git config --global http.proxy socks5://$wip:10800
+git config --global https.proxy socks5://$wip:10800
+git config --global credential.helper store
+
