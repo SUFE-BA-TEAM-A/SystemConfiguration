@@ -17,7 +17,14 @@ This is a repository saving my important configuration and notes about system ma
 3. to save credentials: git config --global credential.helper store
 
 ## Linux Related
+### Tools installation
 1. install openssh to establish an ssh server
 2. install screen
 3. ubuntu: build-essential includes gcc and other tools
+4. xfreerdp can be used to connect to windows remote desktop
+
+### Startup 
+1. docker
+2. v2ray
+3. frpc
 
