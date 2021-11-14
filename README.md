@@ -28,3 +28,10 @@ This is a repository saving my important configuration and notes about system ma
 2. v2ray
 3. frpc
 
+### Develop Environment
+- please **Google: remote development visual studio code** to get complete tutorial
+1. install visual studio code
+2. install remote development extension, including wsl and ssh
+3. use ssh extension to connect to server
+4. open the project folder
+
