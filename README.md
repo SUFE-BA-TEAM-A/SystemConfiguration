@@ -22,6 +22,7 @@ This is a repository saving my important configuration and notes about system ma
 2. install screen
 3. ubuntu: build-essential includes gcc and other tools
 4. xfreerdp can be used to connect to windows remote desktop
+5. to use sun login, install lightdm as default display manager, otherwise the screen will be black
 
 ### Startup 
 1. docker
